@@ -1,0 +1,956 @@
+Data/Hora....: 10/11/2015 00:04:44
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;PADRAO&quot;
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+=========================================================================================
+Data/Hora....: 10/11/2015 00:04:44
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+ERROR:  invalid input syntax for integer: "PADRAO"
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+QUERY: "select * from parametros_sistema where usuario='PADRAO' and empresa=1 and chave='EMAIL_PADRAO'"
+=========================================================================================
+Data/Hora....: 10/11/2015 00:04:44
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 00:04:44
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;PADRAO&quot;
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+=========================================================================================
+Data/Hora....: 10/11/2015 00:04:44
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+ERROR:  invalid input syntax for integer: "PADRAO"
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+QUERY: "select * from parametros_sistema where usuario='PADRAO' and empresa=99 and chave='EMAIL_PADRAO'"
+=========================================================================================
+Data/Hora....: 10/11/2015 00:04:44
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 12:25:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  unterminated quoted string at or near &quot;'EMAIL_PADRAO&quot;
+LINE 1: select * from parametros_sistema where chave='EMAIL_PADRAO
+                                                     ^
+=========================================================================================
+Data/Hora....: 10/11/2015 12:25:46
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+ERROR:  unterminated quoted string at or near "'EMAIL_PADRAO"
+LINE 1: select * from parametros_sistema where chave='EMAIL_PADRAO
+                                                     ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO"
+=========================================================================================
+Data/Hora....: 10/11/2015 12:25:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 12:25:51
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  unterminated quoted string at or near &quot;'EMAIL_PADRAO&quot;
+LINE 1: select * from parametros_sistema where chave='EMAIL_PADRAO
+                                                     ^
+=========================================================================================
+Data/Hora....: 10/11/2015 12:25:51
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+ERROR:  unterminated quoted string at or near "'EMAIL_PADRAO"
+LINE 1: select * from parametros_sistema where chave='EMAIL_PADRAO
+                                                     ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO"
+=========================================================================================
+Data/Hora....: 10/11/2015 12:25:51
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 12:26:26
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  unterminated quoted string at or near &quot;'EMAIL_PADRAO&quot;
+LINE 1: select * from parametros_sistema where chave='EMAIL_PADRAO
+                                                     ^
+=========================================================================================
+Data/Hora....: 10/11/2015 12:26:26
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+ERROR:  unterminated quoted string at or near "'EMAIL_PADRAO"
+LINE 1: select * from parametros_sistema where chave='EMAIL_PADRAO
+                                                     ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO"
+=========================================================================================
+Data/Hora....: 10/11/2015 12:26:26
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 12:31:08
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 12:31:08
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO' and empresa= and usuario=;"
+=========================================================================================
+Data/Hora....: 10/11/2015 12:31:08
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 12:33:25
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 12:33:25
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO' and empresa= and usuario=;"
+=========================================================================================
+Data/Hora....: 10/11/2015 12:33:25
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 12:45:57
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 12:45:57
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO' and empresa= and usuario=;"
+=========================================================================================
+Data/Hora....: 10/11/2015 12:45:57
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 12:48:05
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 12:48:05
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO' and empresa= and usuario="
+=========================================================================================
+Data/Hora....: 10/11/2015 12:48:05
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 12:50:12
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 12:50:12
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: ...s_sistema where chave='EMAIL_PADRAO' and empresa= and usuari...
+                                                             ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO' and empresa= and usuario=;"
+=========================================================================================
+Data/Hora....: 10/11/2015 12:50:12
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=0&token=eaee5e13db4ce510a51f0f6c3e7ea86d1f9072fb
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 21:02:05
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  column &quot;padrao&quot; does not exist
+LINE 1: ...where chave='EMAIL_PADRAO' and empresa=99 and usuario=PADRAO
+                                                                 ^
+=========================================================================================
+Data/Hora....: 10/11/2015 21:02:31
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  column &quot;padrao&quot; does not exist
+LINE 1: ...where chave='EMAIL_PADRAO' and empresa=99 and usuario=PADRAO
+                                                                 ^
+=========================================================================================
+Data/Hora....: 10/11/2015 21:03:11
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  column &quot;padrao&quot; does not exist
+LINE 1: ...where chave='EMAIL_PADRAO' and empresa=99 and usuario=PADRAO
+                                                                 ^
+=========================================================================================
+Data/Hora....: 10/11/2015 21:03:20
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  column &quot;padrao&quot; does not exist
+LINE 1: ...where chave='EMAIL_PADRAO' and empresa=99 and usuario=PADRAO
+                                                                 ^
+=========================================================================================
+Data/Hora....: 10/11/2015 21:04:28
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;PADRAO&quot;
+LINE 1: ...re chave='EMAIL_PADRAO' and empresa=99 and usuario='PADRAO';
+                                                              ^
+=========================================================================================
+Data/Hora....: 10/11/2015 21:05:52
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;PADRAO&quot;
+LINE 1: ...re chave='EMAIL_PADRAO' and empresa=99 and usuario='PADRAO';
+                                                              ^
+=========================================================================================
+Data/Hora....: 10/11/2015 21:05:52
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+ERROR:  invalid input syntax for integer: "PADRAO"
+LINE 1: ...re chave='EMAIL_PADRAO' and empresa=99 and usuario='PADRAO';
+                                                              ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO' and empresa=99 and usuario='PADRAO';"
+=========================================================================================
+Data/Hora....: 10/11/2015 21:05:52
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 21:05:52
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;PADRAO&quot;
+LINE 1: ..., valor, observacoes) values ('EMAIL_PADRAO', 99, 'PADRAO', ...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=45;"
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=46;"
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=47;"
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+QUERY: "select * from empresas where id="
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:23:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/cadastro.php?chave=EMAIL_PADRAO&empresa=99&usuario=999&token=6dab0b99145a191444b8fffc8c69a851785dd36d
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:29
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:29
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.programa, A.valor, B.descricao from programas_usuario A join programas B on A.programa = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:29
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:29
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:29
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+QUERY: "select count(*) as num from programas_usuario where usuario="
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:29
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:46
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:46
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 10/11/2015 22:35:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:49:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:49:03
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 10/11/2015 22:49:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:49:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:49:03
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 10/11/2015 22:49:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:56:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...stema where chave='EMAIL_PADRAO' and empresa=01 and usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 10/11/2015 22:56:38
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...stema where chave='EMAIL_PADRAO' and empresa=01 and usuario=
+                                                                       ^
+QUERY: "select * from parametros_sistema where chave='EMAIL_PADRAO' and empresa=01 and usuario="
+=========================================================================================
+Data/Hora....: 10/11/2015 22:56:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 22:56:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: ..., valor, observacoes) values ('EMAIL_PADRAO', 01, , 'raphael...
+                                                             ^
+=========================================================================================
+Data/Hora....: 10/11/2015 23:12:39
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;PADRAO&quot;
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+=========================================================================================
+Data/Hora....: 10/11/2015 23:12:39
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+ERROR:  invalid input syntax for integer: "PADRAO"
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+QUERY: "select * from parametros_sistema where usuario='PADRAO' and empresa=1 and chave='EMAIL_PADRAO'"
+=========================================================================================
+Data/Hora....: 10/11/2015 23:12:39
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 23:12:39
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;PADRAO&quot;
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+=========================================================================================
+Data/Hora....: 10/11/2015 23:12:39
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+ERROR:  invalid input syntax for integer: "PADRAO"
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+QUERY: "select * from parametros_sistema where usuario='PADRAO' and empresa=99 and chave='EMAIL_PADRAO'"
+=========================================================================================
+Data/Hora....: 10/11/2015 23:12:39
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 10/11/2015 23:45:47
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;PADRAO&quot;
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+=========================================================================================
+Data/Hora....: 10/11/2015 23:45:47
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+ERROR:  invalid input syntax for integer: "PADRAO"
+LINE 1: select * from parametros_sistema where usuario='PADRAO' and ...
+                                                       ^
+QUERY: "select * from parametros_sistema where usuario='PADRAO' and empresa=1 and chave='EMAIL_PADRAO'"
+=========================================================================================
+Data/Hora....: 10/11/2015 23:45:47
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================

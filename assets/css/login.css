@@ -1,0 +1,16 @@
+.container {
+	margin-top: 5%;
+}
+
+#painel-login {
+	margin-top: 5%;
+}
+
+#avatar {
+	width: 25%;
+	margin-bottom: 10px;
+}
+
+div > div > #avatar {
+	align-content: center;
+}

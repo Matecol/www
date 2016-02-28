@@ -1,0 +1,59 @@
+Data/Hora....: 27/11/2015 17:12:23
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/estoque/produtos/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: ... '', '', null, null, null, null, null, null, 'A', , , , '');
+                                                             ^
+=========================================================================================
+Data/Hora....: 27/11/2015 17:18:22
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/estoque/produtos/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: ... '', '', null, null, null, null, null, null, 'A', , , , '');
+                                                             ^
+=========================================================================================
+Data/Hora....: 27/11/2015 17:20:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/estoque/produtos/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: ... '', '', null, null, null, null, null, null, 'A', , '333', '...
+                                                             ^
+=========================================================================================
+Data/Hora....: 27/11/2015 17:22:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/estoque/produtos/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: ... '', '', null, null, null, null, null, null, 'A', , '333', '...
+                                                             ^
+=========================================================================================
+Data/Hora....: 27/11/2015 17:23:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/estoque/produtos/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: ...ull, null, null, null, null, 'A', 0, '333', '3333', , , '');
+                                                               ^
+=========================================================================================
+Data/Hora....: 27/11/2015 17:24:07
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/estoque/produtos/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  null value in column &quot;linha&quot; violates not-null constraint
+DETAIL:  Failing row contains (1, EEEE, EEEE, , , , , null, null, null, null, null, null, A, 0.0000, 333.0000, 3333.0000, 0.0000, 0.0000, ).
+=========================================================================================

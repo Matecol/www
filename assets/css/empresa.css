@@ -1,0 +1,13 @@
+.container {
+	margin-top: 5%;
+}
+
+#painel-empresas {
+	margin-top: 5%;
+}
+
+#tabela tbody td {
+	line-height: 100%;
+	vertical-align: middle;
+}
+

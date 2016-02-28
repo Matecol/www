@@ -1,0 +1,10 @@
+Data/Hora....: 22/02/2016 21:04:45
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/empresas/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: ...cep=11111111,municipio=2,telefone=11111111111,fax=,email='ra...
+                                                             ^
+=========================================================================================

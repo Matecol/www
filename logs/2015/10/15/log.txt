@@ -1,0 +1,1358 @@
+Data/Hora....: 15/10/2015 08:37:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 15/10/2015 08:37:36
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 15/10/2015 08:37:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 08:37:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 15/10/2015 08:37:36
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 15/10/2015 08:37:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:11:52
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:11:52
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:11:52
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:11:52
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:11:52
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:11:52
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:01
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:01
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:05
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:05
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:05
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:05
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:05
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:05
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:10
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:10
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:18
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:18
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:18
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:18
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:18
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:12:18
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:31
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:31
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:31
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:31
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:31
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:31
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:36
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:36
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:38
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:38
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:17:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:50
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:50
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:50
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:50
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:50
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:50
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:53
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:53
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:53
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:53
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:53
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:18:53
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:08
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;;&quot;
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:08
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near ";"
+LINE 1: select nivel from usuarios where id=;
+                                            ^
+QUERY: "select nivel from usuarios where id=;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:08
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:08
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:08
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+ERROR:  syntax error at or near "and"
+LINE 1: select * from permissoes_usuario where usuario= and permissa...
+                                                        ^
+QUERY: "select * from permissoes_usuario where usuario= and permissao=18;"
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:08
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /empresa.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+QUERY: "select * from empresas where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+QUERY: "select * from empresas where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+QUERY: "select * from empresas where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from empresas where id=
+                                        ^
+QUERY: "select * from empresas where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from usuarios where id=
+                                        ^
+QUERY: "select * from usuarios where id="
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 09:21:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /index.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 17:58:53
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 15/10/2015 17:58:53
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 15/10/2015 17:58:53
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 17:58:53
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 15/10/2015 17:58:53
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 15/10/2015 17:58:53
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 17:59:20
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 15/10/2015 17:59:20
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.programa, A.valor, B.descricao from programas_usuario A join programas B on A.programa = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 15/10/2015 17:59:20
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 17:59:20
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+=========================================================================================
+Data/Hora....: 15/10/2015 17:59:20
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+QUERY: "select count(*) as num from programas_usuario where usuario="
+=========================================================================================
+Data/Hora....: 15/10/2015 17:59:20
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 18:02:48
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 15/10/2015 18:02:48
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.programa, A.valor, B.descricao from programas_usuario A join programas B on A.programa = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 15/10/2015 18:02:48
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 18:02:48
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+=========================================================================================
+Data/Hora....: 15/10/2015 18:02:48
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+QUERY: "select count(*) as num from programas_usuario where usuario="
+=========================================================================================
+Data/Hora....: 15/10/2015 18:02:48
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 19:14:20
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 15/10/2015 19:14:20
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.programa, A.valor, B.descricao from programas_usuario A join programas B on A.programa = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 15/10/2015 19:14:20
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 19:14:20
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+=========================================================================================
+Data/Hora....: 15/10/2015 19:14:20
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+QUERY: "select count(*) as num from programas_usuario where usuario="
+=========================================================================================
+Data/Hora....: 15/10/2015 19:14:20
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 15/10/2015 19:17:32
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/estoque/subgrupos/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  insert or update on table &quot;subgrupos&quot; violates foreign key constraint &quot;fk_subgrupos_grupos&quot;
+DETAIL:  Key (grupo)=(1) is not present in table &quot;grupos&quot;.
+=========================================================================================
+Data/Hora....: 15/10/2015 19:17:37
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/estoque/subgrupos/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  insert or update on table &quot;subgrupos&quot; violates foreign key constraint &quot;fk_subgrupos_grupos&quot;
+DETAIL:  Key (grupo)=(2) is not present in table &quot;grupos&quot;.
+=========================================================================================

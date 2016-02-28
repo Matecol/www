@@ -1,0 +1,240 @@
+Data/Hora....: 30/11/2015 07:49:26
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: ...oes) values ('', '', '', 'TESTE', '', '', '', '', , , '', ''...
+                                                             ^
+=========================================================================================
+Data/Hora....: 30/11/2015 07:50:05
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: ...oes) values ('', '', '', 'TESTE', '', '', '', '', , , '', ''...
+                                                             ^
+=========================================================================================
+Data/Hora....: 30/11/2015 07:52:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  value too long for type character(1)
+=========================================================================================
+Data/Hora....: 30/11/2015 07:52:51
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  value too long for type character(1)
+=========================================================================================
+Data/Hora....: 30/11/2015 08:43:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/distribuidora/entregadores/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for type numeric: &quot;&quot;
+LINE 1: ...oria_cnh, comissao) values ('EEE', '222', '', '', 'A', '' );
+                                                                  ^
+=========================================================================================
+Data/Hora....: 30/11/2015 08:43:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/distribuidora/entregadores/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for type numeric: &quot;&quot;
+LINE 1: ...oria_cnh, comissao) values ('EEE', '222', '', '', 'A', '' );
+                                                                  ^
+=========================================================================================
+Data/Hora....: 30/11/2015 09:36:23
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/distribuidora/entregadores/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for type numeric: &quot;&quot;
+LINE 1: ...ria_cnh, comissao) values ('OOOO', '333', '', '', 'A', '' );
+                                                                  ^
+=========================================================================================
+Data/Hora....: 30/11/2015 09:36:33
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/distribuidora/entregadores/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for type numeric: &quot;&quot;
+LINE 1: ...oria_cnh, comissao) values ('UUUU', '11', '', '', 'A', '' );
+                                                                  ^
+=========================================================================================
+Data/Hora....: 30/11/2015 09:55:18
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 09:55:21
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 09:55:27
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 09:55:28
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 09:55:33
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 09:55:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 09:55:57
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 09:55:58
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 09:56:17
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 09:56:18
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : getdate() expects parameter 1 to be long, string given
+=========================================================================================
+Data/Hora....: 30/11/2015 10:04:08
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  value too long for type character(8)
+=========================================================================================
+Data/Hora....: 30/11/2015 10:19:54
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  invalid input syntax for integer: &quot;&quot;
+LINE 1: ...van='1',chassi='1',marca='',modelo='1',ano_modelo='',ano_fab...
+                                                             ^
+=========================================================================================
+Data/Hora....: 30/11/2015 10:20:22
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/imobilizados/imobilizados/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  value too long for type character(8)
+=========================================================================================
+Data/Hora....: 30/11/2015 16:36:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from municipios where id=
+                                          ^
+=========================================================================================
+Data/Hora....: 30/11/2015 16:36:14
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from municipios where id=
+                                          ^
+QUERY: "select * from municipios where id="
+=========================================================================================
+Data/Hora....: 30/11/2015 16:36:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 30/11/2015 17:20:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from municipios where id=
+                                          ^
+=========================================================================================
+Data/Hora....: 30/11/2015 17:20:36
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from municipios where id=
+                                          ^
+QUERY: "select * from municipios where id="
+=========================================================================================
+Data/Hora....: 30/11/2015 17:20:36
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================

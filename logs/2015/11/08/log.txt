@@ -1,0 +1,455 @@
+Data/Hora....: 08/11/2015 00:02:06
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: select * from envio_mensagens where usuario like '3%' order ...
+                                                    ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:06
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: select * from envio_mensagens where usuario like '3%' order ...
+                                                    ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+QUERY: "select * from envio_mensagens where usuario like '3%' order by usuario limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:06
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:06
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...ount(*) as num from envio_mensagens where usuario like '3%';
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:06
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...ount(*) as num from envio_mensagens where usuario like '3%';
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+QUERY: "select count(*) as num from envio_mensagens where usuario like '3%';"
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:06
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:35
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.programa, A.valor, B.descricao from programas_usuario A join programas B on A.programa = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:35
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+QUERY: "select count(*) as num from programas_usuario where usuario="
+=========================================================================================
+Data/Hora....: 08/11/2015 00:02:35
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:10
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.programa, A.valor, B.descricao from programas_usuario A join programas B on A.programa = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:10
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+QUERY: "select count(*) as num from programas_usuario where usuario="
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:16
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.programa, A.valor, B.descricao from programas_usuario A join programas B on A.programa = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:16
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+QUERY: "select count(*) as num from programas_usuario where usuario="
+=========================================================================================
+Data/Hora....: 08/11/2015 00:03:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:11
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:11
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.programa, A.valor, B.descricao from programas_usuario A join programas B on A.programa = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:11
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:11
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:11
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+QUERY: "select count(*) as num from programas_usuario where usuario="
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:11
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:28
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:28
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:28
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:28
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:28
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 08/11/2015 00:04:28
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:13:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:13:03
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 08/11/2015 00:13:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 00:13:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 08/11/2015 00:13:03
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 08/11/2015 00:13:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 08/11/2015 13:05:32
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  null value in column &quot;empresa&quot; violates not-null constraint
+DETAIL:  Failing row contains (EMAIL, null, null, 1, ).
+=========================================================================================
+Data/Hora....: 08/11/2015 13:06:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  null value in column &quot;empresa&quot; violates not-null constraint
+DETAIL:  Failing row contains (EMAIL, null, 2, 1, ).
+=========================================================================================
+Data/Hora....: 08/11/2015 13:11:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  null value in column &quot;empresa&quot; violates not-null constraint
+DETAIL:  Failing row contains (EMAIL, null, null, 1, ).
+=========================================================================================
+Data/Hora....: 08/11/2015 13:27:55
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  null value in column &quot;empresa&quot; violates not-null constraint
+DETAIL:  Failing row contains (EMAIL, null, null, 1, ).
+=========================================================================================
+Data/Hora....: 08/11/2015 13:56:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  null value in column &quot;empresa&quot; violates not-null constraint
+DETAIL:  Failing row contains (EMAIL, null, null, 2, ).
+=========================================================================================

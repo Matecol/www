@@ -1,0 +1,288 @@
+Data/Hora....: 17/10/2015 07:57:40
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : mkdir(): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:57:40
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../uploads/clientes/288c452b6bd715b96e6b01f437bc89a4): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:57:40
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:57:40
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 17/10/2015 07:57:48
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : mkdir(): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:57:48
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../uploads/clientes/288c452b6bd715b96e6b01f437bc89a4): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:57:48
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:57:48
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : mkdir(): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../uploads/clientes/efaae257eee41c5abcc701d4bf676ebd): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /util/upload.php
+Descrição....:
+
+E_WARNING : move_uploaded_file(/home/sistema/sistema/util/../uploads/clientes/288c452b6bd715b96e6b01f437bc89a4/cpf_alexandre): failed to open stream: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /util/upload.php
+Descrição....:
+
+E_WARNING : move_uploaded_file(): Unable to move '/tmp/php433Fjo' to '/home/sistema/sistema/util/../uploads/clientes/288c452b6bd715b96e6b01f437bc89a4/cpf_alexandre'
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : mkdir(): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../uploads/clientes/288c452b6bd715b96e6b01f437bc89a4): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : mkdir(): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../uploads/clientes/efaae257eee41c5abcc701d4bf676ebd): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:16
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:25
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : mkdir(): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:25
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../uploads/clientes/288c452b6bd715b96e6b01f437bc89a4): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:25
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:25
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : mkdir(): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../uploads/clientes/efaae257eee41c5abcc701d4bf676ebd): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /util/upload.php
+Descrição....:
+
+E_WARNING : move_uploaded_file(/home/sistema/sistema/util/../uploads/clientes/288c452b6bd715b96e6b01f437bc89a4/cpf_alexandre): failed to open stream: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /util/upload.php
+Descrição....:
+
+E_WARNING : move_uploaded_file(): Unable to move '/tmp/phpZnyvVG' to '/home/sistema/sistema/util/../uploads/clientes/288c452b6bd715b96e6b01f437bc89a4/cpf_alexandre'
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : mkdir(): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../uploads/clientes/288c452b6bd715b96e6b01f437bc89a4): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 17/10/2015 07:58:34
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/clientes/clientes/anexos.php?id=1&token=603e3c6539d93185da981ca724959ee7b721bda0
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================

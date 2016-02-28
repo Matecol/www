@@ -1,0 +1,682 @@
+Data/Hora....: 07/11/2015 08:22:45
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 07/11/2015 08:22:45
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 07/11/2015 08:22:45
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 08:22:45
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 07/11/2015 08:22:45
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 07/11/2015 08:22:45
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 10:05:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /util/upload.php
+Descrição....:
+
+E_WARNING : move_uploaded_file(/home/sistema/sistema/util/../uploads/tmp/efaae257eee41c5abcc701d4bf676ebd/01_20004527.pdf): failed to open stream: No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 10:05:14
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /util/upload.php
+Descrição....:
+
+E_WARNING : move_uploaded_file(): Unable to move '/tmp/phpmMpPJF' to '/home/sistema/sistema/util/../uploads/tmp/efaae257eee41c5abcc701d4bf676ebd/01_20004527.pdf'
+=========================================================================================
+Data/Hora....: 07/11/2015 10:27:56
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : mkdir(): Permission denied
+=========================================================================================
+Data/Hora....: 07/11/2015 10:27:56
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../tmp/efaae257eee41c5abcc701d4bf676ebd): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 10:27:56
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 10:27:56
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 07/11/2015 10:28:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /util/upload.php
+Descrição....:
+
+E_WARNING : move_uploaded_file(/home/sistema/sistema/util/../uploads/tmp/efaae257eee41c5abcc701d4bf676ebd/01_20002332.pdf): failed to open stream: No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 10:28:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /util/upload.php
+Descrição....:
+
+E_WARNING : move_uploaded_file(): Unable to move '/tmp/phpBLF4V3' to '/home/sistema/sistema/util/../uploads/tmp/efaae257eee41c5abcc701d4bf676ebd/01_20002332.pdf'
+=========================================================================================
+Data/Hora....: 07/11/2015 10:28:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : mkdir(): Permission denied
+=========================================================================================
+Data/Hora....: 07/11/2015 10:28:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../tmp/efaae257eee41c5abcc701d4bf676ebd): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 10:28:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 10:28:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 07/11/2015 10:53:13
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : mkdir(): Permission denied
+=========================================================================================
+Data/Hora....: 07/11/2015 10:53:13
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../tmp/efaae257eee41c5abcc701d4bf676ebd): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 10:53:13
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 10:53:13
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 07/11/2015 11:28:32
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : mkdir(): Permission denied
+=========================================================================================
+Data/Hora....: 07/11/2015 11:28:32
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : scandir(/home/sistema/sistema/util/../tmp/efaae257eee41c5abcc701d4bf676ebd): failed to open dir: No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 11:28:32
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : scandir(): (errno 2): No such file or directory
+=========================================================================================
+Data/Hora....: 07/11/2015 11:28:32
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/utilitarios/email/anexos.php?id=
+Descrição....:
+
+E_WARNING : Invalid argument supplied for foreach()
+=========================================================================================
+Data/Hora....: 07/11/2015 20:15:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 07/11/2015 20:15:03
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 07/11/2015 20:15:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 20:15:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 07/11/2015 20:15:03
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 07/11/2015 20:15:03
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 20:16:41
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  insert or update on table &quot;parametros_sistema&quot; violates foreign key constraint &quot;fk_parametros_sistema_usuario&quot;
+DETAIL:  Key (usuario)=(1) is not present in table &quot;usuarios&quot;.
+=========================================================================================
+Data/Hora....: 07/11/2015 20:17:09
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  insert or update on table &quot;parametros_sistema&quot; violates foreign key constraint &quot;fk_parametros_sistema_usuario&quot;
+DETAIL:  Key (usuario)=(1) is not present in table &quot;usuarios&quot;.
+=========================================================================================
+Data/Hora....: 07/11/2015 21:20:50
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  insert or update on table &quot;parametros_sistema&quot; violates foreign key constraint &quot;fk_parametros_sistema_usuario&quot;
+DETAIL:  Key (usuario)=(1) is not present in table &quot;usuarios&quot;.
+=========================================================================================
+Data/Hora....: 07/11/2015 21:21:38
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/parametros_sistema/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  insert or update on table &quot;parametros_sistema&quot; violates foreign key constraint &quot;fk_parametros_sistema_usuario&quot;
+DETAIL:  Key (usuario)=(1) is not present in table &quot;usuarios&quot;.
+=========================================================================================
+Data/Hora....: 07/11/2015 22:10:37
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from municipios where id=
+                                          ^
+=========================================================================================
+Data/Hora....: 07/11/2015 22:10:37
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from municipios where id=
+                                          ^
+QUERY: "select * from municipios where id="
+=========================================================================================
+Data/Hora....: 07/11/2015 22:10:37
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 22:10:41
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select * from municipios where id=
+                                          ^
+=========================================================================================
+Data/Hora....: 07/11/2015 22:10:41
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select * from municipios where id=
+                                          ^
+QUERY: "select * from municipios where id="
+=========================================================================================
+Data/Hora....: 07/11/2015 22:10:41
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/municipios/acao.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 22:21:00
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/empresas/acao.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;,&quot;
+LINE 1: update empresas set cnpj=0408100196,ie=22222,im=,razaosocial...
+                                                        ^
+=========================================================================================
+Data/Hora....: 07/11/2015 23:40:07
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: select * from envio_mensagens where usuario like '3%' order ...
+                                                    ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+=========================================================================================
+Data/Hora....: 07/11/2015 23:40:07
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: select * from envio_mensagens where usuario like '3%' order ...
+                                                    ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+QUERY: "select * from envio_mensagens where usuario like '3%' order by usuario limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 07/11/2015 23:40:07
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 23:40:07
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...ount(*) as num from envio_mensagens where usuario like '3%';
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+=========================================================================================
+Data/Hora....: 07/11/2015 23:40:07
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...ount(*) as num from envio_mensagens where usuario like '3%';
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+QUERY: "select count(*) as num from envio_mensagens where usuario like '3%';"
+=========================================================================================
+Data/Hora....: 07/11/2015 23:40:07
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:10
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...programas B on A.programa = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.programa, A.valor, B.descricao from programas_usuario A join programas B on A.programa = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:10
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: select count(*) as num from programas_usuario where usuario=
+                                                                    ^
+QUERY: "select count(*) as num from programas_usuario where usuario="
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:10
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/programas_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at or near &quot;order&quot;
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at or near "order"
+LINE 1: ...rmissoes B on A.permissao = B.id where A.usuario= order by B...
+                                                             ^
+QUERY: "select A.usuario, A.permissao, A.valor, B.descricao from permissoes_usuario A join permissoes B on A.permissao = B.id where A.usuario= order by B.descricao limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:15
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+ERROR:  syntax error at end of input
+LINE 1: ...elect count(*) as num from permissoes_usuario where usuario=
+                                                                       ^
+QUERY: "select count(*) as num from permissoes_usuario where usuario="
+=========================================================================================
+Data/Hora....: 07/11/2015 23:50:15
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/permissoes_usuario/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=2
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: select * from envio_mensagens where usuario like '2%' order ...
+                                                    ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:46
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=2
+Descrição....:
+
+ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: select * from envio_mensagens where usuario like '2%' order ...
+                                                    ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+QUERY: "select * from envio_mensagens where usuario like '2%' order by usuario limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=2
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=2
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...ount(*) as num from envio_mensagens where usuario like '2%';
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:46
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=2
+Descrição....:
+
+ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...ount(*) as num from envio_mensagens where usuario like '2%';
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+QUERY: "select count(*) as num from envio_mensagens where usuario like '2%';"
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:46
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=2
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:58
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: select * from envio_mensagens where usuario like '3%' order ...
+                                                    ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:58
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: select * from envio_mensagens where usuario like '3%' order ...
+                                                    ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+QUERY: "select * from envio_mensagens where usuario like '3%' order by usuario limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:58
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:58
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...ount(*) as num from envio_mensagens where usuario like '3%';
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:58
+Nível do Erro: ERROR
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...ount(*) as num from envio_mensagens where usuario like '3%';
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.
+QUERY: "select count(*) as num from envio_mensagens where usuario like '3%';"
+=========================================================================================
+Data/Hora....: 07/11/2015 23:54:58
+Nível do Erro: E_WARNING
+IP Remoto....: 127.0.0.1
+Página.......: /modulos/configuracoes/envio_mensagens/consulta.php?_ref=3
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================

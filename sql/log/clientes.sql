@@ -1,0 +1,38 @@
+/* criar tabela de clientes/fornecedores */
+create table if not exists log.clientes (
+	/* dados originais da tabela */
+	id int not null,
+	cnpj varchar(14) not null,
+	ie varchar(20),
+	im varchar(20),
+	razaosocial varchar(80) not null,
+	nomefantasia varchar(60),
+	endereco_entrega varchar(80),
+	bairro_entrega varchar(50),
+	cep_entrega char(8),
+	municipio_entrega int,
+	telefone_entrega varchar(11),
+	celular_entrega varchar(11),
+	endereco_cobranca varchar(80),
+	bairro_cobranca varchar(50),
+	cep_cobranca char(8),
+	municipio_cobranca int,
+	telefone_cobranca varchar(11),
+	celular_cobranca varchar(11),
+	email01 varchar(80),
+	email02 varchar(80),
+	situacao char(1),
+	autorizado_comprar varchar(60),
+	data_cadastro timestamp,
+	usuario_cadastro text,
+	data_alteracao timestamp,
+	usuario_alteracao text,
+	observacoes text,
+	/* campos da log */
+	log_tipo char(1) not null,
+	log_usuario text not null,
+	log_pagina text,
+	log_data timestamp default current_timestamp,
+	log_seq serial not null,
+   	constraint PK_LOG_CLIENTES primary key (log_seq)
+);
