@@ -1,5 +1,4 @@
 <?php
-
 	// Nome do diretorio base
 	define ('BASE_DIR', __DIR__ . "/..");
 

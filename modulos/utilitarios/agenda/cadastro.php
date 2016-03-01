@@ -124,7 +124,7 @@
 										<!-- BAIRRO -->									
 										<div class="form-group col-md-6">
 											<label for="bairro">Bairro: </label>
-											<input type="text" class="form-control" id="bairro" name="bairro" autocomplete="off" maxlength="40" value="<?= $bairro ?>" <?php permissao(); ?>>
+											<input type="text" class="form-control" id="bairro" name="bairro" autocomplete="off" maxlength="60" value="<?= $bairro ?>" <?php permissao(); ?>>
 										</div>
 										<!-- MUNICIPIO -->
 										<div class="form-group col-md-6">
@@ -200,7 +200,7 @@
 									<span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
 									 Salvar
 								</button>
-								<a href="consulta.php">
+								<a href="<?= $_SERVER['HTTP_REFERER'] ?>">
 									<button class="btn btn-warning mob-btn-block">
 										<span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
 										 Cancelar

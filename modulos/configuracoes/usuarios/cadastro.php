@@ -280,7 +280,7 @@
 										</button>';
 									}	
 								?>
-								<a href="consulta.php">
+								<a href="<?= $_SERVER['HTTP_REFERER'] ?>">
 									<button class="btn btn-warning mob-btn-block">
 										<span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
 										 Cancelar

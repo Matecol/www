@@ -141,7 +141,7 @@
 									<!-- BARRA DE BOTOES -->
 									<div class="btn-control-bar">
 										<div class="panel-heading">
-											<button class="btn btn-default mob-btn-block" onclick="redirecionar('anexos.php?id=<?= urlencode($_GET['id']) ?>', 0)">
+											<button class="btn btn-default mob-btn-block" onclick="redirecionar('../titulos_receber/consulta.php?id=<?= urlencode($_GET['id']) ?>', 0)">
 												<span class="glyphicon glyphicon-usd" aria-hidden="true"></span>
 												<span class="glyphicon glyphicon-triangle-left" aria-hidden="true" style="margin-left: -7px"></span>
 									 			Títulos à Receber

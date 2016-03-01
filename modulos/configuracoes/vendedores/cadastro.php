@@ -104,7 +104,7 @@
 									    <!-- NOME -->
 									    <div class="form-group col-md-4">
 										    <label for="nome">Nome: <span class="label label-danger">Obrigatório</span></label>
-											<input type="text" class="form-control" id="nome" name="nome" autocomplete="off" maxlength="60" value="<?= $nome ?>" <?php permissao(); ?> required autofocus>
+											<input type="text" class="form-control" id="nome" name="nome" autocomplete="off" maxlength="60" value="<?= $nome ?>" <?php permissao(); ?> required>
 	    								</div>
 										<!-- EMPRESA -->
 										<div class="form-group col-md-4">
@@ -125,12 +125,12 @@
 										<!-- COMISSAO DE PECAS -->
 									    <div class="form-group col-md-3">
 										    <label for="comissao_pecas">Comissão de Peças: </label>
-										    <input type="text" inputmode="numeric" pattern="[0-9]*" class="form-control valor" id="comissao_pecas" name="comissao_pecas" autocomplete="off" data-mask="##0,00" data-mask-reverse="true"  value="<?= $comissao_pecas ?>" <?php permissao(); ?>>
+										    <input type="text" inputmode="numeric" pattern="[0-9]*" class="form-control" id="comissao_pecas" name="comissao_pecas" autocomplete="off" value="<?= $comissao_pecas ?>" <?php permissao(); ?>>
 									    </div>
 										<!-- COMISSAO DE SERVICOS -->
 									    <div class="form-group col-md-3">
 										    <label for="comissao_servicos">Comissão de Serviços: </label>
-										    <input type="text" inputmode="numeric" pattern="[0-9]*" class="form-control valor" id="comissao_servicos" name="comissao_servicos" autocomplete="off" data-mask="##0,00" data-mask-reverse="true" value="<?= $comissao_servicos ?>" <?php permissao(); ?>>
+										    <input type="text" inputmode="numeric" pattern="[0-9]*" class="form-control" id="comissao_servicos" name="comissao_servicos" autocomplete="off" value="<?= $comissao_servicos ?>" <?php permissao(); ?>>
 									    </div>
 										<!-- SITUACAO -->
 									    <div class="form-group col-md-3">
@@ -165,7 +165,7 @@
 									<span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
 									 Salvar
 								</button>
-								<a href="consulta.php">
+								<a href="<?= $_SERVER['HTTP_REFERER'] ?>">
 									<button class="btn btn-warning mob-btn-block">
 										<span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
 										 Cancelar

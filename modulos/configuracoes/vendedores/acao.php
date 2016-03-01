@@ -29,8 +29,8 @@
    $nome = tratarTexto($_POST['nome']);
    $empresa = (int)$_POST['empresa'];
    $tipo = tratarTexto($_POST['tipo']);
-   $comissao_pecas = (float)$_POST['comissao_pecas'];
-   $comissao_servicos = (float)$_POST['comissao_servicos'];
+   $comissao_pecas = tratarNumero($_POST['comissao_pecas']);
+   $comissao_servicos = tratarNumero($_POST['comissao_servicos']);
    $situacao = tratarTexto($_POST['situacao']);
    $_action = $_POST['_action'];
    
@@ -55,18 +55,6 @@
 	         return;  
          }
          
-         if ($comissao_pecas > 100.00) {
-	         http_response_code(400);
-	         echo "Valor da comissão de peças inválido." . $comissao_pecas;
-	         return;  
-         }
-         
-         if ($comissao_servicos > 100.00) {
-	         http_response_code(400);
-	         echo "Valor da comissão de serviços inválida.";
-	         return;  
-         }
-         
    }
    
    if (empty($_action)) {
@@ -88,13 +76,13 @@
    }
    
    if ($_action == "alteracao") {
-         $sql = "update vendedores set nome='" . $nome . "',empresa=" . $empresa . ",tipo='" . $tipo . "',comissao_pecas=" . $comissao_pecas . ",comissao_servicos=" . $comissao_servicos . ",situacao='" . $situacao . "' where id=" . $id;
+         $sql = "update vendedores set nome='" . $nome . "',empresa=" . $empresa . ",tipo='" . $tipo . "',comissao_pecas='" . $comissao_pecas . "',comissao_servicos='" . $comissao_servicos . "',situacao='" . $situacao . "' where id=" . $id;
          $msg1 = "alterar";
          $msg2 = "alterado";
    }
    
    if ($_action == "exclusao") {
-         $sql = "delete from vendedores where id=" . $id;
+         $sql = "delete from nome where id=" . $id;
          $msg1 = "excluir";
          $msg2 = "excluído";
    }
@@ -110,7 +98,7 @@
    
    if ($flag == 1) {
          http_response_code(400);
-         echo "Falha ao " . $msg1 . " registro. Tente novamente mais tarde ou contate o suporte." . $sql;
+         echo "Falha ao " . $msg1 . " registro. Tente novamente mais tarde ou contate o suporte.";
          return;
    }
 
