@@ -1,9 +1,0 @@
-Data/Hora....: 18/10/2015 19:33:44
-Nível do Erro: E_WARNING
-IP Remoto....: 127.0.0.1
-Página.......: /modulos/clientes/locais_cobranca/acao.php
-Descrição....:
-
-E_WARNING : pg_query(): Query failed: ERROR:  null value in column &quot;codigo_banco&quot; violates not-null constraint
-DETAIL:  Failing row contains (null, null, ).
-=========================================================================================
