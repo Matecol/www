@@ -1,0 +1,1734 @@
+Data/Hora....: 05/03/2016 15:08:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:08:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:08:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:08:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:08:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:08:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:08:57
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:08:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:00
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:00
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:00
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:00
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:00
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:00
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:00
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO' and senha='42220fe138b215debde3a938972db4573aa36b63';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:00
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_num_rows() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:06
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:14
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO' and senha='42220fe138b215debde3a938972db4573aa36b63';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_num_rows() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:26
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:26
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:26
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:26
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:26
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:26
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:26
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:26
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:27
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:27
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:27
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:27
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:27
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:27
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:27
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO' and senha='42220fe138b215debde3a938972db4573aa36b63';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:27
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_num_rows() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:32
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:32
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:32
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:32
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:32
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:32
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:32
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:09:32
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:44
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:44
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:44
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:44
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:44
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:44
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:44
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:44
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:50
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:50
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:50
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:50
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:50
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:50
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:50
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO' and senha='42220fe138b215debde3a938972db4573aa36b63';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:50
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_num_rows() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:59
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:59
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:59
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:59
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:59
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:59
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:59
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:11:59
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:01
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO' and senha='42220fe138b215debde3a938972db4573aa36b63';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_num_rows() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:06
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:06
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=HUGORIGO
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:14
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO' and senha='42220fe138b215debde3a938972db4573aa36b63';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:12:14
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_num_rows() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:20
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:20
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:20
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:20
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:20
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:20
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:20
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:20
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:22
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:22
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:22
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:22
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:22
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:22
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:22
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO' and senha='42220fe138b215debde3a938972db4573aa36b63';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:18:22
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_num_rows() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:19:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:19:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:19:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:19:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:19:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:19:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:19:09
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:19:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:46
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:46
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:46
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:46
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:46
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:46
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:46
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:46
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=hugorigo
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:48
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:48
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:48
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:48
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:48
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:48
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:48
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='HUGORIGO' and senha='42220fe138b215debde3a938972db4573aa36b63';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:48
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /login.php
+Descrição....:
+
+E_WARNING : pg_num_rows() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:53
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:53
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:53
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:53
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:53
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:53
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:53
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:21:53
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:55
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:55
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:55
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:55
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:55
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:55
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:55
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:55
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:57
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:24:57
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:25:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:25:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:25:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:25:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:25:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:25:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:25:01
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:25:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:28
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:28
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:28
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:28
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:28
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:28
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:28
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:28
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:30
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_connect(): Unable to connect to PostgreSQL server: FATAL:  password authentication failed for user &quot;postgres&quot;
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:30
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:30
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:30
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:30
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_query() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:30
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_last_error() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:30
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+
+QUERY: "select * from usuarios where login='';"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:26:30
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /util/avatar.php?_action=url&login=
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, null given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:34:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  relation &quot;gerenciador&quot; does not exist
+LINE 1: select * from gerenciador order by id limit 10 offset 0
+                      ^
+=========================================================================================
+Data/Hora....: 05/03/2016 15:34:01
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+ERROR:  relation "gerenciador" does not exist
+LINE 1: select * from gerenciador order by id limit 10 offset 0
+                      ^
+QUERY: "select * from gerenciador order by id limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:34:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:34:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  relation &quot;gerenciador&quot; does not exist
+LINE 1: select count(*) as num from gerenciador
+                                    ^
+=========================================================================================
+Data/Hora....: 05/03/2016 15:34:01
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+ERROR:  relation "gerenciador" does not exist
+LINE 1: select count(*) as num from gerenciador
+                                    ^
+QUERY: "select count(*) as num from gerenciador"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:34:01
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:37:03
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  relation &quot;gerenciador&quot; does not exist
+LINE 1: select * from gerenciador order by id limit 10 offset 0
+                      ^
+=========================================================================================
+Data/Hora....: 05/03/2016 15:37:03
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+ERROR:  relation "gerenciador" does not exist
+LINE 1: select * from gerenciador order by id limit 10 offset 0
+                      ^
+QUERY: "select * from gerenciador order by id limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:37:03
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:37:03
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  relation &quot;gerenciador&quot; does not exist
+LINE 1: select count(*) as num from gerenciador
+                                    ^
+=========================================================================================
+Data/Hora....: 05/03/2016 15:37:03
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+ERROR:  relation "gerenciador" does not exist
+LINE 1: select count(*) as num from gerenciador
+                                    ^
+QUERY: "select count(*) as num from gerenciador"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:37:03
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:56:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  relation &quot;gerenciador&quot; does not exist
+LINE 1: select * from gerenciador order by id limit 10 offset 0
+                      ^
+=========================================================================================
+Data/Hora....: 05/03/2016 15:56:09
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+ERROR:  relation "gerenciador" does not exist
+LINE 1: select * from gerenciador order by id limit 10 offset 0
+                      ^
+QUERY: "select * from gerenciador order by id limit 10 offset 0"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:56:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
+Data/Hora....: 05/03/2016 15:56:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_query(): Query failed: ERROR:  relation &quot;gerenciador&quot; does not exist
+LINE 1: select count(*) as num from gerenciador
+                                    ^
+=========================================================================================
+Data/Hora....: 05/03/2016 15:56:09
+Nível do Erro: ERROR
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+ERROR:  relation "gerenciador" does not exist
+LINE 1: select count(*) as num from gerenciador
+                                    ^
+QUERY: "select count(*) as num from gerenciador"
+=========================================================================================
+Data/Hora....: 05/03/2016 15:56:09
+Nível do Erro: E_WARNING
+IP Remoto....: ::1
+Página.......: /modulos/financeiro/gerenciador/consulta.php
+Descrição....:
+
+E_WARNING : pg_fetch_all() expects parameter 1 to be resource, boolean given
+=========================================================================================
